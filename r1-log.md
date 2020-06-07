@@ -10,3 +10,9 @@ Started a June Leet code challange. Solved first problem "Invert a Binary Tree"
 
 ### R1D2
 Solved second problem "Two city scheduling cost"
+
+### R1D2
+Started working on State management in Angualr using NgRx
+
+### R1D2
+Implemented login functionality using Ngrx store and effects
