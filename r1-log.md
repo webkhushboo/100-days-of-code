@@ -16,3 +16,13 @@ Started working on State management in Angualr using NgRx https://github.com/web
 
 ### R1D4
 Implemented login functionality using Ngrx store and effects
+
+### R1D5
+Implemented NgRx Effect 
+
+### R1D6
+Implemented NgRx Entity
+
+### R1D7
+Implemented NgRx Entity with selectors and reducers
+
